@@ -1,0 +1,2 @@
+# democode
+just study
